@@ -10,4 +10,4 @@ Get information of stars from Baidupedia, then draw a relationship graph.
 
 # Notice
 
-It tackles information in Chinese.
+It tackles with information in Chinese.
